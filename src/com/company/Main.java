@@ -44,7 +44,7 @@ public class Main
 
         if (a.length == b.length)
         {
-            for (int i = 0; i < a.length; i++) // if a is longer than b, it doesn't work, correct this
+            for (int i = 0; i < a.length; i++)
             {
                 if (a[i] == b[i])
                     all_true = true;
